@@ -1,5 +1,6 @@
 package mainGame;
 
-public class MainGame {
 
+public class MainGame{
+	
 }
